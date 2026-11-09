@@ -1,0 +1,6 @@
+{
+  "name": "Suno",
+  "description": "AI music and song generator studio powered by Suno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
